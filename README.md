@@ -26,7 +26,3 @@ The desktop preview client for [Pixorla](https://pixorla.design): a standalone w
 - 官网下载页 / Download page: <https://pixorla.design/download>
 - 安装与使用指南 / Install & usage guide: <https://pixorla.design/help/desktop>
 - 在线编辑器 / Web editor: <https://pixorla.design>
-
-## China mirror / 国内分流
-
-GitHub 下载较慢时可改用官网下载页提供的百度网盘分流：见 <https://pixorla.design/download>。
