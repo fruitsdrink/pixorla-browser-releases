@@ -2,7 +2,7 @@
 
 Pixorla 的桌面预览客户端：把作品的实时预览放进独立桌面窗口——多视口、多标签，与网页编辑器实时同步。它不是桌面 IDE，代码仍在网页编辑器里写，桌面窗口只负责「看」。
 
-The desktop preview client for [Pixorla](https://pixorla.design): a standalone window with multi-viewport, multi-tab live preview of your fiddles, synced with the web editor in real time. It is not a desktop IDE — editing stays in the browser, the window is for viewing.
+The desktop preview client for [Pixorla](https://pixorla.com): a standalone window with multi-viewport, multi-tab live preview of your fiddles, synced with the web editor in real time. It is not a desktop IDE — editing stays in the browser, the window is for viewing.
 
 > 本仓库仅用于分发安装包，不含源代码。This repository distributes installers only — no source code lives here.
 
@@ -23,6 +23,6 @@ The desktop preview client for [Pixorla](https://pixorla.design): a standalone w
 
 ## Links / 相关链接
 
-- 官网下载页 / Download page: <https://pixorla.design/download>
-- 安装与使用指南 / Install & usage guide: <https://pixorla.design/help/desktop>
-- 在线编辑器 / Web editor: <https://pixorla.design>
+- 官网下载页 / Download page: <https://pixorla.com/download>
+- 安装与使用指南 / Install & usage guide: <https://pixorla.com/help/desktop>
+- 在线编辑器 / Web editor: <https://pixorla.com>
